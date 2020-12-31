@@ -1,10 +1,8 @@
-import React from 'react';
-
+import React from 'react'; 
+import Navigation from './Navigation';
 function App(){
   return(
-    <div>
-      <h1 className="jumbotron">Human Resource Management</h1>
-    </div>
+    <Navigation />
   );
 }
 

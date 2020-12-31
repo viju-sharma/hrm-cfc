@@ -1,0 +1,28 @@
+.brandName{
+    padding-left: 15px;
+}
+
+
+span.left
+{
+    position: relative;
+    font-size: 30px;
+}
+
+span.left:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    visibility: hidden;
+    background: rgb(33,147,176);
+    background: linear-gradient(90deg, rgba(33,147,176,1) 0%, rgba(207,255,0,0.12678574847907909) 100%);
+    transition: all 0.3s ease-in-out;
+}
+
+span.left:hover:before {
+  visibility: visible;
+  width: 100%;
+}
