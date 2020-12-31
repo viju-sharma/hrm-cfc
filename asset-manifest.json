@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/htt=://viju-sharma.github.io/hrm-cfc/static/js/main.fb0e4b06.chunk.js",
-    "main.js.map": "/htt=://viju-sharma.github.io/hrm-cfc/static/js/main.fb0e4b06.chunk.js.map",
-    "runtime-main.js": "/htt=://viju-sharma.github.io/hrm-cfc/static/js/runtime-main.111e6b9e.js",
-    "runtime-main.js.map": "/htt=://viju-sharma.github.io/hrm-cfc/static/js/runtime-main.111e6b9e.js.map",
-    "static/css/2.81057f45.chunk.css": "/htt=://viju-sharma.github.io/hrm-cfc/static/css/2.81057f45.chunk.css",
-    "static/js/2.1da185c3.chunk.js": "/htt=://viju-sharma.github.io/hrm-cfc/static/js/2.1da185c3.chunk.js",
-    "static/js/2.1da185c3.chunk.js.map": "/htt=://viju-sharma.github.io/hrm-cfc/static/js/2.1da185c3.chunk.js.map",
-    "index.html": "/htt=://viju-sharma.github.io/hrm-cfc/index.html",
-    "static/css/2.81057f45.chunk.css.map": "/htt=://viju-sharma.github.io/hrm-cfc/static/css/2.81057f45.chunk.css.map",
-    "static/js/2.1da185c3.chunk.js.LICENSE.txt": "/htt=://viju-sharma.github.io/hrm-cfc/static/js/2.1da185c3.chunk.js.LICENSE.txt"
+    "main.js": "/hrm-cfc/static/js/main.fb0e4b06.chunk.js",
+    "main.js.map": "/hrm-cfc/static/js/main.fb0e4b06.chunk.js.map",
+    "runtime-main.js": "/hrm-cfc/static/js/runtime-main.93fd709a.js",
+    "runtime-main.js.map": "/hrm-cfc/static/js/runtime-main.93fd709a.js.map",
+    "static/css/2.81057f45.chunk.css": "/hrm-cfc/static/css/2.81057f45.chunk.css",
+    "static/js/2.1da185c3.chunk.js": "/hrm-cfc/static/js/2.1da185c3.chunk.js",
+    "static/js/2.1da185c3.chunk.js.map": "/hrm-cfc/static/js/2.1da185c3.chunk.js.map",
+    "index.html": "/hrm-cfc/index.html",
+    "static/css/2.81057f45.chunk.css.map": "/hrm-cfc/static/css/2.81057f45.chunk.css.map",
+    "static/js/2.1da185c3.chunk.js.LICENSE.txt": "/hrm-cfc/static/js/2.1da185c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.111e6b9e.js",
+    "static/js/runtime-main.93fd709a.js",
     "static/css/2.81057f45.chunk.css",
     "static/js/2.1da185c3.chunk.js",
     "static/js/main.fb0e4b06.chunk.js"
